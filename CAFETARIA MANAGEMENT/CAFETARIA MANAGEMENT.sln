@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAFETARIA MANAGEMENT", "CAFETARIA MANAGEMENT\CAFETARIA MANAGEMENT.csproj", "{95B5AA1C-8C56-4A94-A918-4689199CE8BF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MurangaCafeteriaSetup", "MurangaCafeteriaSetup\MurangaCafeteriaSetup.vdproj", "{9EA4A27D-4962-4D0C-BD21-321066C6D86D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95B5AA1C-8C56-4A94-A918-4689199CE8BF}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{95B5AA1C-8C56-4A94-A918-4689199CE8BF}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{95B5AA1C-8C56-4A94-A918-4689199CE8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B5AA1C-8C56-4A94-A918-4689199CE8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA4A27D-4962-4D0C-BD21-321066C6D86D}.Debug|Any CPU.ActiveCfg = Release
+		{9EA4A27D-4962-4D0C-BD21-321066C6D86D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2885223C-DF44-4D1A-97C8-DB3D5271E839}
+	EndGlobalSection
+EndGlobal
