@@ -1,7 +1,7 @@
 # Cafeteria-management-system
 Cafeteria Management System 
 
-This repository contains a graphical cafeteria management system implemented in C#. The application provides users with the ability to make sales, add meals, update meal information, and remove meals. It is designed to facilitate the day-to-day operations of a cafeteria or similar food service establishment. 
+This repository contains a graphical user interface of a basic cafeteria management system. The application provides users with the ability to make sales, add meals, update meal information, and remove meals. It is designed to facilitate the day-to-day operations of a cafeteria or similar food service establishment. 
 
  
 ![dashboard](https://github.com/Gibz-nate/Cafeteria-management-system/assets/119291505/d38940f1-9007-4fc4-9709-b9741da5df93)
